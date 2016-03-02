@@ -12,8 +12,6 @@ tLig = Tk()
 sig = Canvas(tLig, width=105, height=300)
 sig.pack()
 
-# functions
-
 
 def red(a):
     for i in range(a):
@@ -62,8 +60,6 @@ def lights():
     amber = sig.create_oval(5, 105, 100, 200, fill="black")
     green = sig.create_oval(5, 205, 100, 300, fill="black")
 
-# end of functions
-# calling the functions
 
 lights()
 red(30)
