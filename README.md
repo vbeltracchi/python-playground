@@ -1,2 +1,3 @@
 # python-playground
-Some play around with Python.
+
+Playing around with Python.
