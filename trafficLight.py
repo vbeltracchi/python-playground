@@ -6,7 +6,7 @@
 # Vittorio Beltracchi - 2015
 
 import time
-from Tkinter import *
+from tkinter import *
 
 tLig = Tk()
 sig = Canvas(tLig, width=105, height=300)
